@@ -4,7 +4,7 @@
 ```😜 Note: In Github Tech Community, we value all contributions to match devs with jobs so both internal recruiters & headhunters are welcome to post your jobs here!```
 
 
-## 1. Pepare your JD in the following format:
+## 1. Prepare your JD in the following format:
 
 ### 	✨ Tittle Format (No Capital Letters):
 
