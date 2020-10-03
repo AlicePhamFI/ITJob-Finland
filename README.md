@@ -1,22 +1,22 @@
 # ITJob-Internship-Asia
 👋👋👋 A perfect place to find devs and IT jobs in Asia!
 
-```😜 Note: In Github Tech Community, we value all contributions to match devs with jobs so both internal recruiters & headhunters are welcome to post your jobs here!```
+```😜 Note: In Github Tech Community, we value all contributions to match devs with jobs so both internal recruiters & headhunters are welcomed to post your jobs here!```
 
 
 ## 1. Prepare your JD in the following format:
 
 ### 	✨ Tittle Format (No Capital Letters):
 
-```[Type of Company] - [Company Name] - [Job Title] - [Location] - [Job Type]```
+```[Country] - [Company Name/Type of Company] - [Job Title] - [Job Type]```
 
 in which [Type of Company] could be:
 
-A (for Agency)
-C (for Corporate)
+- A (for Agency)
+- C (for Corporate)
 
 Ex:
-```C - Google - IT Engineer - Remote/Hanoi - Fulltime```
+```Vietnam - Google/C - IT Engineer - Fulltime```
 
 ### 	✨ JD Format:
 - The content MUST be in Markdown Format. If you are unfamiliar with the Markdown, you can still post job easily by filling the JD template belows. 
