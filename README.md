@@ -1,5 +1,5 @@
-# ITJob-Internship-Asia
-👋👋👋 A perfect place to find devs and IT jobs in Asia!
+# ITJob Finland
+👋👋👋 A perfect place to find devs and IT jobs in Finland!
 
 ```😜 Note: In Github Tech Community, we value all contributions to match devs with jobs so both internal recruiters & headhunters are welcomed to post your jobs here!```
 
@@ -16,7 +16,7 @@ in which [Type of Company] could be:
 - C (for Corporate)
 
 Ex:
-```Vietnam - Google/C - IT Engineer - Fulltime```
+```Finland - Smartly.io/C - Backend Developer (NodeJS/Typescript) - Fulltime```
 
 ### 	✨ JD Format:
 - The content MUST be in Markdown Format. If you are unfamiliar with the Markdown, you can still post job easily by filling the JD template belows. 
@@ -26,11 +26,11 @@ Otherwise, take some minutes to check the [Markdown Cheatsheet](https://github.c
 ```
 ## Location (REQUIRED)
 
-* Hanoi, Vietnam
+* Helsinki, Finland
 
 ## Salary Expectation (REQUIRED)
 
-* $2500/month or range
+* €5000/month or range
 
 ### Your Role (REQUIRED)
 
@@ -65,4 +65,4 @@ Trollman: johndoe_at_gmail_dot_com (mobile number optional)
 ```
 
 ## 2. How to post your job?
-:point_right: [Submit a Github Issue Ticket](https://github.com/AlicePhamFI/ITJob-Internship-Asia/issues/new) . Fill the tittle + the write box, then press 🙌 ```Submit New Issue```
+:point_right: [Submit a Github Issue Ticket](https://github.com/AlicePhamFI/ITJob-Finland/issues/new) . Fill the tittle + the write box, then press 🙌 ```Submit New Issue```
